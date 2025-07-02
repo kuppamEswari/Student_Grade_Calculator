@@ -32,13 +32,20 @@ java StudentMarks
 📊 Sample Output
 
 Enter number of subjects:3
+
 Enter marks for Subject 1: 85
+
 Enter marks for Subject 2: 92
+
 Enter marks for Subject 3: 78
 
+
 -----Result-----
+
 Total Marks: 255
+
 Average Percentage: 85.0%
+
 Grade: A
 
 
